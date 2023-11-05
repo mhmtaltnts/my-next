@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <Header />
       <h1>Home Page</h1>
-      <p>Selam Kelam </p>
+      <p>Selam Kelam gggggggssssssssss </p>
       <h3>Selam</h3>
       <div className="flex gap-1 text-blue-600">
         <Link href="/login" className="underline">
